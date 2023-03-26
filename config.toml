@@ -1,5 +1,5 @@
 title = 'Auguang Maitreya'
-baseURL = 'http://auguang.info/'
+baseURL = 'https://main--cheerful-churros-efd63e.netlify.app/'
 languageCode = 'en-au'
 theme = 'ananke'
 
