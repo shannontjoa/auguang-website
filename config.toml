@@ -1,10 +1,14 @@
 title = 'Auguang Maitreya'
-baseURL = 'https://main--cheerful-churros-efd63e.netlify.app/'
+baseURL = 'https://auguang.info/'
 languageCode = 'en-au'
-theme = 'ananke'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 SectionPagesMenu = "main"
 Paginate = 3
+
+[module]
+[[module.imports]]
+path = 'github.com/theNewDynamic/gohugo-theme-ananke'
 
 [params]
 text_color = ""
@@ -22,3 +26,6 @@ url = "https://www.facebook.com/auguangmaitreya"
 [[params.ananke_socials]]
 name = "instagram"
 url = "https://www.instagram.com/Auguangmaitreya/"
+
+[build.processing]
+skip_processing = true
