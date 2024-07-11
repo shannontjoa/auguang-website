@@ -7,7 +7,9 @@ type: page
 menu: main
 ---
 
-Please call or email for visiting hours
+Visiting hours are from 11.30 am - 2.30 pm every Sunday.
+
+Please email us for alternative visiting times and other inquiries.
 
 1120 Anzac Parade, Maroubra NSW 2035
 
